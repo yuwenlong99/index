@@ -5,3 +5,4 @@ todo list:
 	rebase
 	blame	
 	branch
+	log
